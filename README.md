@@ -1,2 +1,3 @@
 # day-9-generate-bank-check
- New react APp
+
+# DEMO : https://mk-knight23.github.io/day-9-generate-bank-check
